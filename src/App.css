@@ -1,0 +1,44 @@
+body, h3{
+  font-family: 'Raleway', sans-serif;
+}
+.containerPrincipal {
+  
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.containerSecundario{
+  text-align: center;
+}
+.fas{
+  /* background-color: #04374f; */
+  color: #04374f;
+}
+.contenedor{
+  background-image: url("./images/bg-iluma.jpg") ;
+  background-position: center;
+}
+.encabezado {
+  background-color: #04374f;
+  
+} 
+thead{
+  background-color: #04374f;
+  color: #E5E8E8;
+  font-family: 'Raleway', sans-serif;
+}
+tbody {
+  background-color: #000000, opacity 25.0%;
+}
+
+.btn{
+  margin: 0 auto;
+  margin-top: 10px;
+  background-color: #04374f;
+  
+}
+
+
